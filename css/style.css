@@ -1,0 +1,22 @@
+h1{
+    color :red;
+}
+
+.title{
+    color:blue;
+}
+#sectionTitle{
+    font-family:sans-serif;
+}
+
+.makeMeRed{
+    color:red;
+}
+
+.type1{
+    font-family: 'courier';
+}
+
+.type2{
+    font-family: 'arial';
+}
